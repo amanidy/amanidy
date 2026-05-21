@@ -38,12 +38,3 @@ I thrive in dynamic environments and I'm passionate about solving complex techni
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaniarnold08&show_icons=true&theme=dark&hide_border=true" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaniarnold08&theme=dark&hide_border=true" alt="streak"/>
-</p>
