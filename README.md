@@ -4,7 +4,7 @@ I'm a Software Developer with a strong background in developing innovative appli
 I thrive in dynamic environments and I'm passionate about solving complex technical challenges.
 
 -  Building  apps with **React, Next.js, Node.js, Express**
--  Focused on clean code, performance, and user experience
+-  Focused on clean code, performance and user experience
 
 
 ---
